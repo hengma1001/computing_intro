@@ -18,6 +18,8 @@ I have found the [data science course](https://datascience.quantecon.org/) from 
 ### Conda/mamba
 One of the most useful features of `conda` is setting up multiple python environments for different projects/test runs. [The instructions can be found here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).The `mamba` is a faster version of `conda`. 
 
+### VS Code
+[Microsoft VS Code](https://code.visualstudio.com/) provides a nice interface to edit and develop codes on both local machines and remote workstations via ssh. It also provides jupyter functionality and many others via its extension. It is my first choice for coding. 
 
 ## Torch
 Pytorch is the AI/ML framework, which enables the users to create and train their own AI models. It also hosts [PyTorch Hub](https://pytorch.org/hub/) for trained models. [The tutorial](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) is a good place to start learning the basics of torch and neural network. 
